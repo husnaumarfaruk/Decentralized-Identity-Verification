@@ -79,7 +79,6 @@ npx hardhat test
 ```bash
 npx hardhat run scripts/deploy.js --network <network-name>
 ```
-
 ### Identity Registration
 
 ```javascript
